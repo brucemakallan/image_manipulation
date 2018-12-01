@@ -1,7 +1,7 @@
 # image_manipulation
 Resize, Rename, ...
 
-#####Setup:
+#### Setup:
 1. Create virtual env
 `python3 -m venv env`
 
@@ -18,5 +18,5 @@ e.g. `my_path = r'Users/test/myImages/'`
 5. Set required `WIDTH_IN_PX`
 *The height will be calculated automatically to maintain aspect ratio*
 
-#####Run app:
+#### Run app:
 `python -m main`
